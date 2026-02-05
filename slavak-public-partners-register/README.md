@@ -1,6 +1,6 @@
 Quick mental model (important)
-Thing	Command
-Image	docker images
+Thing	Command\n
+Image	docker images\n
 Running container	docker ps
 Stop container	docker stop
 Delete container	docker rm
@@ -23,4 +23,5 @@ Stop the running container
 Use the CONTAINER ID (or name):
 
 docker stop a1b2c3d4e5f6
+
 
