@@ -1,0 +1,562 @@
+[
+  {
+    "Business Name": "ZELEX, s.r.o.",
+    "ICO": "47559870",
+    "Address": {
+      "Address": "Kuralany 49",
+      "PostalCode": "93564",
+      "City": "Kuralany",
+      "Country": "Slovenska republika"
+    },
+    "Verification Date": "13.01.2026",
+    "Verification document URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/78023",
+    "Beneficial Owners": [
+      {
+        "Name and surname of the BO": "Rudolf Varga",
+        "Date of Birth": "16.07.1970",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "Kuralany 43",
+          "PostalCode": "93564",
+          "City": "Kuralany",
+          "Country": "Slovenska republika"
+        }
+      }
+    ],
+    "Source URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/3"
+  },
+  {
+    "Business Name": "GPP INDUSTRIE BAU, s. r. o.",
+    "ICO": "44562977",
+    "Address": {
+      "Address": "Kragujevska 398",
+      "PostalCode": "01001",
+      "City": "Zilina",
+      "Country": "Slovenska republika"
+    },
+    "Verification Date": "09.01.2026",
+    "Verification document URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/62317",
+    "Beneficial Owners": [
+      {
+        "Name and surname of the BO": "Patrik Gazur",
+        "Date of Birth": "28.12.1975",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "Orgovanova 197/1",
+          "PostalCode": "01501",
+          "City": "Rajec",
+          "Country": "Slovenska republika"
+        }
+      }
+    ],
+    "Source URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/5"
+  },
+  {
+    "Business Name": "EXTRACOM s.r.o.",
+    "ICO": "46258981",
+    "Address": {
+      "Address": "Kostolna ulica 561/15",
+      "PostalCode": "95117",
+      "City": "Cabaj-Capor",
+      "Country": "Slovenska republika"
+    },
+    "Verification Date": "31.12.2024",
+    "Verification document URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/166793",
+    "Beneficial Owners": [
+      {
+        "Name and surname of the BO": "Marian Hrnka",
+        "Date of Birth": "24.03.1965",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "Kostolna ulica 1591/17",
+          "PostalCode": "95117",
+          "City": "Cabaj-Capor",
+          "Country": "Slovenska republika"
+        }
+      }
+    ],
+    "Source URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/13"
+  },
+  {
+    "Business Name": "INTERCLEAN, s.r.o.",
+    "ICO": "36683329",
+    "Address": {
+      "Address": "Coboriho 2",
+      "PostalCode": "94901",
+      "City": "Nitra",
+      "Country": "Slovenska republika"
+    },
+    "Verification Date": "02.01.2026",
+    "Verification document URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/13990",
+    "Beneficial Owners": [
+      {
+        "Name and surname of the BO": "Ing. Vidor Szokol",
+        "Date of Birth": "11.09.1978",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "Okolicna na Ostrove 604",
+          "PostalCode": "94613",
+          "City": "Okolicna na Ostrove",
+          "Country": "Slovenska republika"
+        }
+      }
+    ],
+    "Source URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/18"
+  },
+  {
+    "Business Name": "CHRANENEPRACOVISKO.eu, s. r. o.",
+    "ICO": "44667931",
+    "Address": {
+      "Address": "Sadova 29/A",
+      "PostalCode": "90028",
+      "City": "Ivanka pri Dunaji",
+      "Country": "Slovenska republika"
+    },
+    "Verification Date": "30.06.2025",
+    "Verification document URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/184086",
+    "Beneficial Owners": [
+      {
+        "Name and surname of the BO": "Michal Polacek",
+        "Date of Birth": "12.10.1984",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "2067",
+          "PostalCode": "84106",
+          "City": "Bratislava - mestska cast Zahorska Bystrica",
+          "Country": "Slovenska republika"
+        }
+      }
+    ],
+    "Source URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/30"
+  },
+  {
+    "Business Name": "CECHOVO, s. r. o.",
+    "ICO": "46186484",
+    "Address": {
+      "Address": "Namestie slobody 39",
+      "PostalCode": "08301",
+      "City": "Sabinov",
+      "Country": "Slovenska republika"
+    },
+    "Verification Date": "30.06.2025",
+    "Verification document URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/60519",
+    "Beneficial Owners": [
+      {
+        "Name and surname of the BO": "Bc. Patrik Cech",
+        "Date of Birth": "28.03.1988",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "Uzovce 54",
+          "PostalCode": "08266",
+          "City": "Uzovce",
+          "Country": "Slovenska republika"
+        }
+      }
+    ],
+    "Source URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/34"
+  },
+  {
+    "Business Name": "GX SOLUTIONS, a. s.",
+    "ICO": "45232270",
+    "Address": {
+      "Address": "Galvaniho 12",
+      "PostalCode": "82104",
+      "City": "Bratislava",
+      "Country": "Slovenska republika"
+    },
+    "Verification Date": "20.01.2026",
+    "Verification document URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/243742",
+    "Beneficial Owners": [
+      {
+        "Name and surname of the BO": "Ing. Juraj Kozica",
+        "Date of Birth": "18.04.1974",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "Hlavna 609/13B",
+          "PostalCode": "900 65",
+          "City": "Zahorska Ves",
+          "Country": "Slovenska republika"
+        }
+      },
+      {
+        "Name and surname of the BO": "Ing. Miroslav Bajzik",
+        "Date of Birth": "09.10.1972",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "Alstrova 10355/7A",
+          "PostalCode": "831 06",
+          "City": "Bratislava - mestska cast Raca",
+          "Country": "Slovenska republika"
+        }
+      }
+    ],
+    "Source URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/38"
+  },
+  {
+    "Business Name": "J.R.G. s.r.o.",
+    "ICO": "43838651",
+    "Address": {
+      "Address": "Stefanikova 887/53",
+      "PostalCode": "05801",
+      "City": "Poprad",
+      "Country": "Slovenska republika"
+    },
+    "Verification Date": "28.01.2026",
+    "Verification document URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/239678",
+    "Beneficial Owners": [
+      {
+        "Name and surname of the BO": "Ing. Dusan Miskovcik",
+        "Date of Birth": "07.05.1976",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "Mlynska 626/19",
+          "PostalCode": "02901",
+          "City": "Namestovo",
+          "Country": "Slovenska republika"
+        }
+      }
+    ],
+    "Source URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/41"
+  },
+  {
+    "Business Name": "De minimis, spol. s r. o.",
+    "ICO": "36868949",
+    "Address": {
+      "Address": "Lovinskeho 22",
+      "PostalCode": "81104",
+      "City": "Bratislava",
+      "Country": "Slovenska republika"
+    },
+    "Verification Date": "30.06.2025",
+    "Verification document URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/132365",
+    "Beneficial Owners": [
+      {
+        "Name and surname of the BO": "Mgr. Marek Kalavsky",
+        "Date of Birth": "31.05.1976",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "Mateja Bela 845/6",
+          "PostalCode": "81106",
+          "City": "Bratislava - mestska cast Stare Mesto",
+          "Country": "Slovenska republika"
+        }
+      }
+    ],
+    "Source URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/42"
+  },
+  {
+    "Business Name": "PROVA Slovakia, spol. s r.o.",
+    "ICO": "31438806",
+    "Address": {
+      "Address": "Mikoviniho 11",
+      "PostalCode": "917 01",
+      "City": "Trnava",
+      "Country": "Slovenska republika"
+    },
+    "Verification Date": "27.02.2025",
+    "Verification document URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/131473",
+    "Beneficial Owners": [
+      {
+        "Name and surname of the BO": "Michal Vanak",
+        "Date of Birth": "02.06.1978",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "326",
+          "PostalCode": "919 09",
+          "City": "Selpice",
+          "Country": "Slovenska republika"
+        }
+      }
+    ],
+    "Source URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/45"
+  },
+  {
+    "Business Name": "DARTIN SLOVENSKO, spol. s r.o.",
+    "ICO": "31676936",
+    "Address": {
+      "Address": "L. Podjavorinskej 25",
+      "PostalCode": "08005",
+      "City": "Presov",
+      "Country": "Slovenska republika"
+    },
+    "Verification Date": "06.02.2024",
+    "Verification document URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/240080",
+    "Beneficial Owners": [
+      {
+        "Name and surname of the BO": "Petr Hambalek",
+        "Date of Birth": "10.06.1960",
+        "Nationality": "Ceska republika",
+        "Address of the BO": {
+          "Address": "Pod Haskovcem 1561",
+          "PostalCode": "74258",
+          "City": "Pribor",
+          "Country": "Ceska republika"
+        }
+      },
+      {
+        "Name and surname of the BO": "Ing. Jiri Pavlicek",
+        "Date of Birth": "07.07.1967",
+        "Nationality": "Ceska republika",
+        "Address of the BO": {
+          "Address": "Svatopluka Cecha 1529",
+          "PostalCode": "25228",
+          "City": "Cernosice",
+          "Country": "Ceska republika"
+        }
+      },
+      {
+        "Name and surname of the BO": "Sven Ingvar Magnus Holm Asterlind",
+        "Date of Birth": "11.12.1969",
+        "Nationality": "Svedske kralovstvo",
+        "Address of the BO": {
+          "Address": "Pozarnicka 441",
+          "PostalCode": "16400",
+          "City": "Praha 6 -  Nebusice",
+          "Country": "Ceska republika"
+        }
+      },
+      {
+        "Name and surname of the BO": "Konrad Buza",
+        "Date of Birth": "25.09.1980",
+        "Nationality": "Polska republika",
+        "Address of the BO": {
+          "Address": "Kalisnicka 379/8",
+          "PostalCode": "13000",
+          "City": "Praha 3 -  Zizkov",
+          "Country": "Ceska republika"
+        }
+      }
+    ],
+    "Source URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/49"
+  },
+  {
+    "Business Name": "KRIDLA, s.r.o.",
+    "ICO": "36466778",
+    "Address": {
+      "Address": "Mierova 94",
+      "PostalCode": "06601",
+      "City": "Humenne",
+      "Country": "Slovenska republika"
+    },
+    "Verification Date": "17.02.2025",
+    "Verification document URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/247812",
+    "Beneficial Owners": [
+      {
+        "Name and surname of the BO": "Ing. Frantisek Kridla",
+        "Date of Birth": "17.05.1962",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "Sidlisko Polana 2300/131",
+          "PostalCode": "06601",
+          "City": "Humenne",
+          "Country": "Slovenska republika"
+        }
+      }
+    ],
+    "Source URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/55"
+  },
+  {
+    "Business Name": "COMMERCE PK, s.r.o.",
+    "ICO": "47995645",
+    "Address": {
+      "Address": "Bardejovska 42",
+      "PostalCode": "08006",
+      "City": "Presov",
+      "Country": "Slovenska republika"
+    },
+    "Verification Date": "31.12.2019",
+    "Verification document URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/23578",
+    "Beneficial Owners": [
+      {
+        "Name and surname of the BO": "Ing. Peter Krizan",
+        "Date of Birth": "01.11.1966",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "Hlavna 469/145",
+          "PostalCode": "08216",
+          "City": "Fintice",
+          "Country": "Slovenska republika"
+        }
+      },
+      {
+        "Name and surname of the BO": "Jana Krizanova",
+        "Date of Birth": "06.06.1973",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "Hlavna 469/145",
+          "PostalCode": "08216",
+          "City": "Fintice",
+          "Country": "Slovenska republika"
+        }
+      }
+    ],
+    "Source URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/58"
+  },
+  {
+    "Business Name": "PM SYSTEMS, a. s.",
+    "ICO": "36839248",
+    "Address": {
+      "Address": "Skolska ulica 926/1",
+      "PostalCode": "03484",
+      "City": "Liptovske Sliace",
+      "Country": "Slovenska republika"
+    },
+    "Verification Date": "07.01.2026",
+    "Verification document URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/239583",
+    "Beneficial Owners": [
+      {
+        "Name and surname of the BO": "Ing.  Martin Sameliak",
+        "Date of Birth": "24.06.1980",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "Partizanska Lupca 551",
+          "PostalCode": "032 15",
+          "City": "Partizanska Lupca",
+          "Country": "Slovenska republika"
+        }
+      }
+    ],
+    "Source URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/62"
+  },
+  {
+    "Business Name": "Clever Frame Slovakia,s.r.o.",
+    "ICO": "47585498",
+    "Address": {
+      "Address": "Racianska 24D",
+      "PostalCode": "831 02",
+      "City": "Bratislava - mestska cast Nove Mesto",
+      "Country": "Slovenska republika"
+    },
+    "Verification Date": "14.01.2018",
+    "Verification document URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/48909",
+    "Beneficial Owners": [
+      {
+        "Name and surname of the BO": "Mgr. Darius Rusnak",
+        "Date of Birth": "20.07.1986",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "Palkovicova 226/3",
+          "PostalCode": "82108",
+          "City": "Bratislava",
+          "Country": "Slovenska republika"
+        }
+      }
+    ],
+    "Source URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/64"
+  },
+  {
+    "Business Name": "Protect servis s.r.o.",
+    "ICO": "45389535",
+    "Address": {
+      "Address": "Vodomeracska 1",
+      "PostalCode": "04011",
+      "City": "Kosice - mestska cast Peres",
+      "Country": "Slovenska republika"
+    },
+    "Verification Date": "07.01.2025",
+    "Verification document URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/7131",
+    "Beneficial Owners": [
+      {
+        "Name and surname of the BO": "Peter Petrovsky",
+        "Date of Birth": "03.12.1977",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "Tri Horky 5",
+          "PostalCode": "04011",
+          "City": "Kosice",
+          "Country": "Slovenska republika"
+        }
+      }
+    ],
+    "Source URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/68"
+  },
+  {
+    "Business Name": "PROENERGY, s. r. o.",
+    "ICO": "43965849",
+    "Address": {
+      "Address": "Priemyselna 1",
+      "PostalCode": "03101",
+      "City": "Liptovsky Mikulas",
+      "Country": "Slovenska republika"
+    },
+    "Verification Date": "24.02.2025",
+    "Verification document URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/171431",
+    "Beneficial Owners": [
+      {
+        "Name and surname of the BO": "Ing. Lubomir Spanko",
+        "Date of Birth": "19.05.1981",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "Hriadky 1596/3",
+          "PostalCode": "03101",
+          "City": "Liptovsky Mikulas",
+          "Country": "Slovenska republika"
+        }
+      }
+    ],
+    "Source URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/76"
+  },
+  {
+    "Business Name": "KVATROMED, s.r.o.",
+    "ICO": "36173622",
+    "Address": {
+      "Address": "Milosrdenstva 16",
+      "PostalCode": "04001",
+      "City": "Kosice",
+      "Country": "Slovenska republika"
+    },
+    "Verification Date": "09.01.2026",
+    "Verification document URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/176778",
+    "Beneficial Owners": [
+      {
+        "Name and surname of the BO": "Daniel Szabadkai",
+        "Date of Birth": "15.12.1975",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "Na Kope X 901/8",
+          "PostalCode": "04016",
+          "City": "Kosice - mestska cast Myslava",
+          "Country": "Slovenska republika"
+        }
+      },
+      {
+        "Name and surname of the BO": "Stefan Szabadkai",
+        "Date of Birth": "30.09.1948",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "Milosrdenstva 458/16",
+          "PostalCode": "040 01",
+          "City": "Kosice - mestska cast Juh",
+          "Country": "Slovenska republika"
+        }
+      }
+    ],
+    "Source URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/85"
+  },
+  {
+    "Business Name": "UNICAR, s. r. o.",
+    "ICO": "36409022",
+    "Address": {
+      "Address": "Ul. 1. maja 68/1848",
+      "PostalCode": "03101",
+      "City": "Liptovsky Mikulas",
+      "Country": "Slovenska republika"
+    },
+    "Verification Date": "31.12.2025",
+    "Verification document URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Dokument/191412",
+    "Beneficial Owners": [
+      {
+        "Name and surname of the BO": "Peter Brtan",
+        "Date of Birth": "01.06.1966",
+        "Nationality": "Slovenska republika",
+        "Address of the BO": {
+          "Address": "1.Maja 1848/141",
+          "PostalCode": "03101",
+          "City": "Liptovsky Mikulas",
+          "Country": "Slovenska republika"
+        }
+      }
+    ],
+    "Source URL": "https://rpvs.gov.sk/rpvs/Partner/Partner/Detail/98"
+  }
+]
